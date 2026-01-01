@@ -1,0 +1,23 @@
+*/  Die Hard: Nakatomi Plaza - AIO Modding Tools V1.0.
+
+//  Version: {V1.0}
+
++   Presenting initial edition.
++   Cross-platform development.
+
+[Software Improvements:]
+
++   REZ archive extractor fully implemented!
++   Nakatomi Script view-er fully implemented!
++   DTX, PCX converter - viewer - exporter fully implemented!
++   Model viewer-exporter (.obj, .mtl + textures [auto find]) + blender .py file fully implemented! // 80% in progress.
+
+[Additions:]
+
++   Archive extractor
++   Image Inspector
++   Nakatomi Script editor.
++   DTX converter - exporter
++   LTB - LTA parser! // Will be fixed.
+
+/*
