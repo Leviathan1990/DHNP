@@ -30,6 +30,8 @@ On Linux OS, you need to compile the project with QT Creator! After the tool bec
 
 This version has a little problem with the .LTA-.LTB (model) files. Will be fixed in the next update! A model viewer (3D component) will be added and the .obj, .mtl etc. exporter function will be fully implemented! 
 
+For more information please read the attached Changelog.txt and TODO.txt files.
+
 Report an issue:
 =
 Please help me fixing, updating my tools. If you find any issues, bugs, missing, broken functions, please
