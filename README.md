@@ -8,7 +8,12 @@ Die Hard: Nakatomi Plaza - AIO Modding Tools.
 ***
 Introduce:
 =
-This tool was designed for the game, "Die Hard: Nakatomi Plaza" developed by Piranha Games. With this all in one tool you can extract the content of the .rez archives and build them. Additionally, you can also read the script files, view DTX - PCX textures, convert and export them. This version also features with a 3d model (.LTB - .LTA) viewer - converter - expoter (.obj, .mtl + textures + Blender plugin), a script editor that will be updated with a syntax checker and suggestionBox, and the script editor will be renamed to Nakatomi script editor! 
+This tool was designed for the game, "Die Hard: Nakatomi Plaza" developed by Piranha Games. With this all in one tool you can extract the content of the .rez archives and build them. Additionally, you can also read the script files, view DTX - PCX textures, convert and export them. 
+
+This version also features with a 3d model (.LTB - .LTA) viewer - converter - expoter (.obj, .mtl + textures + Blender plugin), a script editor that will be updated with a syntax checker and suggestionBox, and the script editor will be renamed to Nakatomi script editor! 
+
+My main aim -after fully implementing DHNP tool, is to restore the multiplayer function by creating an external host <-> client server tool as well as a DLL injection.
+
 
 Installation:
 =
