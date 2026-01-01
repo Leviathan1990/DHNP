@@ -1,3 +1,47 @@
 Die Hard: Nakatomi Plaza - All In One Modding Tools.
-===
+Actual Version is V1.0.
 
+//  Upcoming fixes and improvements for V1.1.
+
+[Software Improvements:]
+
++   You can now build your own .rez archive (including the Engine.REZ that has different header type!).
++   You can now remove, replace, add file(s) to you existing .REZ archive and save the modified archive!
++   Syntax-checker, highlighter and suggestionBox for Nakatomi script editor!
++   Audio player for the audio filetypes!
+
+[Fixes:]
+
+*  Fix .LTA and .LTB-related issues // In progress.
+
+[Additions:]
+
++   REZ archive builder!
++   REZ archive manipulator!
++   Script editor with syntax checker and suggestionBox.
++   Audio player
+
+//  Research: Formats:
+
+What the following file types are used for?
+
+.LYT
+.DEP
+.LTO    //  sub_427B3D
+.FXD
+.DLS
+.SGT
+.SPR    //  Sprites
+.SFV
+.MFV    //  Anim?
+.KFV
+.CFV
+.FXF
+.FCF
+
+//  Research: Multiplayer
+
+chat_window
+GTCHAT
+
+* I'm working on an external host- client tool as well. More information needed (IDA disassembler)
