@@ -21,27 +21,8 @@ Actual Version is V1.0.
 +   Script editor with syntax checker and suggestionBox.
 +   Audio player
 
-//  Research: Formats:
-
-What the following file types are used for?
-
-.LYT
-.DEP
-.LTO    //  sub_427B3D
-.FXD
-.DLS
-.SGT
-.SPR    //  Sprites
-.SFV
-.MFV    //  Anim?
-.KFV
-.CFV
-.FXF
-.FCF
+//  External console with .dll injection:
+*  The game features with a built-in console designed for only display debug messages, so you can not input anyting. My aim is to create an external console for input cvars.
 
 //  Research: Multiplayer
-
-chat_window
-GTCHAT
-
 * I'm working on an external host- client tool as well. More information needed (IDA disassembler)
